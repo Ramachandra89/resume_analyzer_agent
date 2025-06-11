@@ -1,0 +1,29 @@
+
+What You’ll Do
+
+• Design, develop and implement AI and Gen-AI based Agentic software systems on the cloud
+
+• Collaborate with other development teams and subject matter experts (SMEs) to integrate shared services into products
+
+• Learn Deutsche Bank’s AI Governance framework and operate within safe AI principles
+
+• Leverage architecture decision trees to pick strategic AI patterns to solve business problems
+
+• Integrate Gen-AI application programming interface (APIs) with cloud-native presentation (GKE, Cloud Run) and persistent layers (PostgreSQL, BQ)
+
+• Run systems at scale while continuing to innovate and evolve and work with data engineers and scientists to ensure effective data collection and preparation for training AI models
+
+ 
+
+Skills You’ll Need
+
+• AI Expertise and proficiency in frameworks (Langchain, Streamlit or similar), libraries (Scikit-learn or similar) and cloud platforms (Vertex AI or OpenAI)
+
+• Prompt Engineering & Red Amber Green (RAG) skills in crafting effective prompts and enhancing AI outputs with external data integration
+
+• NLP Strong knowledge understanding of natural language processing and conversational AI technologies
+
+• Deployment & Operations experience in model deployment, monitoring, optimization (MLOps), and problem-solving
+
+• Proficiency with cloud-native orchestration systems (Docker/Kubernetes), Python or Java, and Structured Query Language (SQL); as well as knowledge of RESTful design
+
